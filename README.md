@@ -6,3 +6,5 @@ I have over 300 accounts in various services. Most of them are not used. Here I 
 | ------- | ---------- | ----- |
 | [notion.so](https://www.notion.so) | Simple | [Guide](https://www.notion.so/help/delete-your-account#how-do-i-delete-an-account) | 
 | [redfin](https://www.redfin.com) | Simple | Go to [settings](https://www.redfin.com/myredfin/settings) and scroll down |
+| [vrbo](https://www.vrbo.com) | Simple | Go to [settings](https://www.vrbo.com/account/settings) and click "Delete account" |
+| [care.com](https://care.com) | Simple | [Guide](https://help.care.com/families/s/article/How-do-I-close-my-care-com-account-for-families?language=en_US&memberUUID=26265e7e-7782-4ec2-af1e-759619fbfe75&memberType=BASIC). Login and go [here](https://www.care.com/member/captureEditMembershipInformation.do). |
